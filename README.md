@@ -1,4 +1,4 @@
-# Bit App (Groovy,Grails,Spring,MySql)
+# Bit App (Groovy, Grails, GORM, Spring, Hibernate, MySql)
 Bit App Build on Top of Grails 3.2.2 with Spring Security Core:3.1.2
 <br/> MySql used as a database server
 <br/> Just need to configure database username, password and url according to your database server in application.yml  file
