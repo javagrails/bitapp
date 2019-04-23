@@ -10,6 +10,10 @@ Bit App Build on Top of Grails 3.2.2 with Spring Security Core:3.1.2
  
  ### Login view
  ![Resources](https://github.com/javagrails/bitapp/blob/master/docs/login.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Fbitapp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Fbitapp?ref=badge_shield)
  
  ### Dashboard view
  ![Resources](https://github.com/javagrails/bitapp/blob/master/docs/bit-app-home.png)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Fbitapp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Fbitapp?ref=badge_large)
