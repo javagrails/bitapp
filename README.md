@@ -9,7 +9,7 @@ Bit App Build on Top of Grails 3.2.2 with Spring Security Core:3.1.2
  
  
  ### Login view
- ![Resources](https://github.com/javagrails/bitapp/blob/master/docs/login.png)
+ ![Resources](https://github.com/javagrails/bitapp/blob/develop/docs/login.png)
  
  ### Dashboard view
- ![Resources](https://github.com/javagrails/bitapp/blob/master/docs/bit-app-home.png)
+ ![Resources](https://github.com/javagrails/bitapp/blob/develop/docs/bit-app-home.png)
